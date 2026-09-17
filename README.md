@@ -67,14 +67,3 @@ Raw Data ➔ Outlier Replacement ➔ Missing Value Imputation ➔ Feature Scalin
 ```
 
 ---
-
-*Part of the 7-Day Machine Learning Engineering Challenge.*
-
-
-
-
-```
-
-<FollowUp label="هل ترغب في طريقة إضافة ملف README مباشرة من خلال واجهة GitHub أم عبر سطر الأوامر (Terminal)؟" query="كيف أضيف ملف README.md إلى المستودع باستخدام سطر الأوامر Git؟"/>
-
-```
