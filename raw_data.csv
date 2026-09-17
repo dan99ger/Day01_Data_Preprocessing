@@ -1,0 +1,9 @@
+Employee_ID,Age,Department,Salary,Experience_Years,Target_Met
+101,25.0,IT,50000,2,Yes
+102,30.0,HR,60000,5,No
+103,,IT,55000,3,Yes
+104,45.0,Sales,80000,15,Yes
+105,22.0,HR,48000,1,No
+106,150.0,IT,120000,20,Yes
+107,38.0,Sales,75000,10,No
+108,,,62000,7,Yes
